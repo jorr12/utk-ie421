@@ -1,5 +1,5 @@
 # utk-ie421
-For IE 421/428 Class.
+For IE 421/428 Class at the University of Tennessee.
 
 #Front-end HTML5 templates
 
